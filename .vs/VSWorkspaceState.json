@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angular-src",
+    "\\angular-src\\src",
+    "\\angular-src\\src\\app",
+    "\\angular-src\\src\\app\\admin\\admin-footer",
+    "\\angular-src\\src\\app\\admin\\_pages",
+    "\\angular-src\\src\\app\\auth",
+    "\\angular-src\\src\\app\\shop\\header",
+    "\\config",
+    "\\server",
+    "\\server\\models",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\angular-src\\src\\app\\auth\\auth.module.ts",
+  "PreviewInSolutionExplorer": false
+}

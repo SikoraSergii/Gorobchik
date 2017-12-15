@@ -3,18 +3,21 @@
   "version": "1.0.0",
   "description": "Personal florist",
   "repository": "git@github.com:SikoraSergii/Gorobchik.git",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app"
+    "start": "node server"
   },
   "dependencies": {
-    "express": "*",
-    "mongoose": "*",
     "bcryptjs": "*",
-    "cors": "*",
-    "jsonwebtoken": "*",
     "body-parser": "*",
+    "compression": "~1.7.1",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "method-override": "~2.3.10",
+    "mongoose": "*",
+    "morgan": "~1.9.0",
     "passport": "*",
     "passport-jwt": "*"
   },
